@@ -1,16 +1,46 @@
-## Hi there 👋
+# 🚀 Vimal Vidyadhaaran — GitHub Profile (Animated Style)
 
-<!--
-**VIMAL-2101/vimal-2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Below is a **GitHub README template** with smooth animations (using GIFs + SVGs) similar to the one shown in the screenshot, but **fully customized for YOU — Vimal**.
 
-Here are some ideas to get you started:
+You can paste this directly into your GitHub README.md.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 👋 Hey, I'm **Vimal**
+
+---
+
+## ✨ About Me
+
+* 🔭 I’m currently working on **Full Stack Development**, **Java**, **Spring Boot**, **React**, **MongoDB**
+* 🌱 Learning **DSA**, **Cloud**, **Game Development (JavaFX)**
+* 🧑‍💻 Ask me about **Java, MERN, React, MongoDB, Git, TailwindCSS**
+* 📫 Reach me: **[vidyadhaaranv@gmail.com](mailto:vidyadhaaranv@gmail.com)**
+
+---
+
+## 🛠️ Programming Languages
+
+---
+
+## 🧩 Frameworks & Libraries
+
+---
+
+## 🧰 Tools & Technologies
+
+---
+
+## 🎨 Additional Skills
+
+---
+
+## 📊 GitHub Stats (Animated)
+
+---
+
+## 🔗 Connect With Me
+
+---
+
+> ⚡ Tell me if you want **different color theme**, **animated icons**, or **scroll animations** like the one in the screenshot!
