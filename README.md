@@ -37,5 +37,3 @@
 ## 🔗 Connect With Me
 
 ---
-
-> ⚡ Tell me if you want **different color theme**, **animated icons**, or **scroll animations** like the one in the screenshot!
