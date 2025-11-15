@@ -23,11 +23,10 @@
 
 ## 🛠️ Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
+
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-0000FF?style=for-the-badge\&logo=mysql)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
@@ -53,20 +52,17 @@
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visualstudiocode)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase)
+
 
 ---
 
 ## 🎨 Additional Skills
 
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge\&logo=framer)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge\&logo=docker)
+
 
 ---
 
-## 📊 GitHub Stats (Animated)
+## 📊 GitHub Stats 
 
 <div align="center">
 
