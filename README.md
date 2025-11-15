@@ -1,10 +1,5 @@
-# 🚀 Vimal Vidyadhaaran — GitHub Profile (Animated Style)
+# 🚀 Vimal Vidyadhaaran 
 
-Below is a **GitHub README template** with smooth animations (using GIFs + SVGs) similar to the one shown in the screenshot, but **fully customized for YOU — Vimal**.
-
-You can paste this directly into your GitHub README.md.
-
----
 
 # 👋 Hey, I'm **Vimal**
 
